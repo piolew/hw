@@ -18,4 +18,5 @@ pick & place  - 1AAABED_C1_pp_option2.txt
 # Common files
 gerbers       - 1AAABED_C1-20210201T081651Z-001.zip\
 schematics    - 1AAABED_C1_schematics.pdf\
-BOM           - 1AAABED_C1_BOM.xlsx\
+BOM           - 1AAABED_C1_BOM.xlsx
+
