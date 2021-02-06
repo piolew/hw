@@ -5,7 +5,6 @@ This option alows Cricket to wake-up automaticly each time battery is replaced.
 
 Files:
 pick & place  - 1AAABED_C1_pp_option1.txt
-BOM           - 1AAABED_C1_BOM_option1.xlsx
 
 ## Option 2 - IO2 edge to pulse detector on IO1
 Currently the Cricket will wake-up on HI level on IO1 only.
@@ -15,8 +14,8 @@ This option will wake-up only once Cricket for each change of the level on IO1 p
 
 Files:
 pick & place  - 1AAABED_C1_pp_option2.txt
-BOM           - 1AAABED_C1_BOM_option2.xlsx
 
 # Common files
 gerbers       - 1AAABED_C1-20210201T081651Z-001.zip
 schematics    - 1AAABED_C1_schematics.pdf
+BOM           - 1AAABED_C1_BOM.xlsx
